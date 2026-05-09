@@ -1,5 +1,7 @@
 # 📚 Exercícios da Faculdade
 
-Este repositório reúne exercícios, atividades e códigos desenvolvidos durante a faculdade de Engenharia de Software. 💻
+Este repositório foi criado com o objetivo de armazenar todos os exercícios, atividades e práticas desenvolvidos durante minha graduação em Engenharia de Software. 💻
 
-O objetivo é registrar minha evolução na programação, praticar lógica de programação e armazenar conteúdos aprendidos em aula ao longo da graduação. 🚀
+Os conteúdos estão organizados em pastas separadas, permitindo acompanhar minha evolução nos estudos e nos conceitos aprendidos ao longo da faculdade.
+
+Aqui você encontrará exercícios de lógica de programação, estruturas de decisão, estruturas de repetição, algoritmos e diversos conteúdos trabalhados durante as aulas e atividades práticas. 🚀
